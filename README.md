@@ -1,66 +1,62 @@
-<h2 align="left">Oi! Sou apaixonada por livros e por criar coisas novas, seja no código ou em outros projetos. Fique à vontade para trocar uma ideia por aqui! 📚✨</h2>
+<div align="center">
+  <h1>Olá, eu sou a Ana Elisa Narcísio! 👋</h1>
+  <h3>Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento e Infraestrutura</h3>
+  <p><i>"Acredito no aprendizado contínuo, na comunicação assertiva e no poder da tecnologia para resolver problemas reais."</i></p>
+</div>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananarcisio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananarcisio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/ana-elisa-fernandes-narcisio" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+  <a href="mailto:anaelisafernandesn06@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+  </a>
 </div>
 
-###
+<br>
 
-<br clear="both">
-
-<img align="right" height="168" src="https://i.pinimg.com/originals/66/c4/8f/66c48f7b70826edc67eb79f6dc251659.gif"  />
-
-###
+## 🚀 Sobre mim
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <p>
+    Sou uma desenvolvedora apaixonada por transformar lógica e linhas de código em soluções reais. Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na Faculdade Cotemig e dedico meu tempo livre a aprimorar minhas habilidades em programação web e desenvolvimento de software.
+  </p>
+  <p>
+    Minha trajetória é um pouco diferente e me dá uma vantagem única: antes de mergulhar fundo no código, construí uma base sólida em infraestrutura, redes e suporte (onde até atuei como professora e monitora!).
+  </p>
+  <p>
+    No momento, meu foco principal está em aprofundar meus conhecimentos no ecossistema Web (HTML, CSS, JavaScript) e no backend com <strong>C# e Java</strong>, sempre buscando aplicar boas práticas para construir aplicações eficientes e escaláveis. Adoro resolver problemas complexos e aprender novas tecnologias.
+  </p>
 </div>
 
-###
+<br>
 
-<div align="left">
-  <a href="https://www.instagram.com/ana.narcisio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="anaelisafernandesn06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ana-elisa-fernandes-narcisio?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+## 💻 Minhas Tecnologias e Habilidades
+
+  <p>Aqui estão as principais tecnologias e ferramentas com as quais trabalho e estudo:</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de Dados" />
 </div>
 
-###
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananarcisio&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas da Ana" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananarcisio&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
+</div>
+
+<br>
+
+<div align="center">
+  <p>Sinta-se à vontade para explorar meus repositórios e entrar em contato!</p>
+</div>
